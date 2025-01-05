@@ -1,18 +1,5 @@
 {
-  "owners": [
-    "7308812889"
-  ],
-  "premiumUsers": [
-    {
-      "id": "7308812889",
-      "expiresAt": 1680000000000
-    },
-    {
-      "id": "PREMIUM_USER_ID_2",
-      "expiresAt": 1700000000000
-    }
-  ],
-  "botTokens": [
-    "7749971589:AAFEoLOx7j-57KRMfBqK-yhOvl4mpDaV2-Y",
+  "allowed_tokens": [
+    "7749971589:AAFEoLOx7j-57KRMfBqK-yhOvl4mpDaV2-Y"
   ]
 }
