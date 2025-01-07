@@ -1,10 +1,6 @@
 {
   "premium_users": [
     {
-      "id": "7702321877",
-      "expiredAt": "permanently"
-    },
-    {
       "id": "7309963823",
       "expiredAt": "permanently"
     }
