@@ -2,11 +2,15 @@
   "premium_users": [
     {
       "id": "7996741014",
-      "expiredAt": 1736492939432
+      "expiredAt": 1736491802998
     },
     {
       "id": "7702321877",
       "expiredAt": "permanently"
+    },
+    {
+      "id": "7084012519",
+      "expiredAt": 1736579372811
     }
   ]
 }
